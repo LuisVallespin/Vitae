@@ -1,0 +1,7 @@
+.eslintrc.cjs
+vite.config.ts
+vitest.setup.js
+commitlint.config.cjs
+tailwind.config.cjs
+playwright.config.ts
+playwright-tests/*
